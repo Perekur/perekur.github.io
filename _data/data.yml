@@ -1,4 +1,4 @@
-name: John Doe
+name: Anton Pn
 support_dark_mode: true
 fork: true
 
@@ -64,7 +64,7 @@ profile: |
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
+    time: 2023-Present
     company: 3Shape
     details: |
       Participate as developer in project related to solution for the dental labs and clinics.      
