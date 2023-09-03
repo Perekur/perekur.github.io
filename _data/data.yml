@@ -19,11 +19,12 @@ education:
   - degree: MSc in Computer System and Networks
     time: 2010-2016
     university: |
-      National university 'Kyiv Polytechnic Institute im.Sikhorskiy'
+      National university 'Kyiv Polytechnic Institute of Igor Sikorsky'
 
   - degree: Accountant
     time: 2000-2002
-    university: Irpinskiy economic collegue
+    university: |
+      Irpinskiy economic collegue
 
 skills:
   - category: .NET 
