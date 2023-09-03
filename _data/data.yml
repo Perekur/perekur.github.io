@@ -18,12 +18,12 @@ languages:
 education:
   - degree: MSc in Computer System and Networks
     time: 2010-2016
-    university: ukrainian university kyiv polytechnic institute
+    university: |
+      National university 'Kyiv Polytechnic Institute im.Sikhorskiy'
 
-  - degree: junior specialist
+  - degree: Accountant
     time: 2000-2002
-    university: ukrainian university kyiv polytechnic institute
-
+    university: Irpinskiy economic collegue
 
 skills:
   - category: .NET 
