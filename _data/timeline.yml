@@ -17,10 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: National university 'Kyiv politechnic institute of I.Sikorsky'
+  title-url: 
+  date: Sep 2010 - June 2016
+  subtitle: Computer enginier
   tags:
     - tag: React
     - tag: Javascript
