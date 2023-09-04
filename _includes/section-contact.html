@@ -66,4 +66,14 @@
     </div>
   </a>
   {% endif %}
+  {% if site.stackoverflow_userid != null %}
+  <a class="social-link stackoverflow" aria-label="My S.O" target="_blank" rel="noreferrer"
+    href="https://stackoverflow.com/users/{{site.stackoverflow_userid}}/{{site.stackoverflow_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#stack-overflow" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
 </div>
