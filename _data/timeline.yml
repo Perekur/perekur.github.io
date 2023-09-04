@@ -37,9 +37,10 @@
   title-url: https://www.iek.irpin.com/
   date: 2000 - 2002
   subtitle: Irpinskiy economic college
-  timeline-side: left
+  tags:
     - tag: Ms Office
     - tag: VisualBasic for Applications
     - tag: Windows
     - tag: International accounting standarts
     - tag: MBA
+  timeline-side: left
