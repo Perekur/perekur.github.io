@@ -13,8 +13,15 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: SRS + MDC + ADC  - solution for the gathering data from many devices, loading data with matching coordintates in images, monitoring, exporting data, integration with image processing services
-  descr: Solution has microservice architecture and used as central server for processing data received from the optic 2d/3d scanning wafers.
+- name: SRS + MDC + ADC + RMS
+  descr:  |
+    The solution for the gathering data from many devices, loading data with matching coordintates in images, monitoring, exporting data, integration with image processing services
+    Solution has microservice architecture and used as central server for processing data received from the optic 2d/3d scanning wafers.<br/>
+    <ul>
+      <li>MDC - manual defect classification (WPF application with MSI installer). </li>
+      <li>ADC - automatic defect classification (use neural networks with image processing libraries). </li>
+      <li>RMS - recipy management system (sync recipes data over all available servers in the local network) </li>
+    </ul>
   demo: https://www.camtek.com/solutions/software-solutions/
   tags:
     - tag: .NET
@@ -28,8 +35,6 @@
     - tag: SignalR
     - tag: GRPC.NET
     - tag: Protobuf.NET
-    - tag: MDC
-    - tag: ADC
     - tag: Python
     - tag: Git
     - tag: NSubstitute
@@ -67,5 +72,4 @@
     - tag: Devexpress
     - tag: Asp.NET
     - tag: WIX
-    - tag: OpenApi (Swagger)
-          
+    - tag: OpenApi (Swagger)    
