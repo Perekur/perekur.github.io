@@ -38,8 +38,9 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: |
-  I am .NET developer but also use C++/Python. I like to find solution for the interesting technical tasks and complex technical challanges. <br/>
-  I have experience in developent and maintanence solutions in many business domain: financial, medical, semiconductors, 3d, modible and etc. 
+  I am .NET developer but also use C++/Python. <br/>
+  I have experience in developent and maintanence solutions in many business domain: financial, medical, semicondactors, 3d, modible and etc. </br>
+  I like to find solution for the interesting technical tasks and complex technical challanges. <br/>
   More detailed about my skills, experience and projects you can find in my CV.
 
 # SKILLS SECTION
