@@ -23,9 +23,10 @@ email: anton.ua.05007@gmail.com
 github_username: perekur
 stackoverflow_userid: 3360687
 stackoverflow_username: anton
-#codepen_username: exampleUser
-dev_username: perekur
 linkedin_username: anton-pn
+#codepen_username: exampleUser
+#dev_username: perekur
+
 #twitter_username: exampleUser
 
 # ABOUT ME SECTION
@@ -36,7 +37,10 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am .NET/C++/Python/ developer who like the solve the interesting tasks and complex technical challanges. If you know how to simplify your business process with IT and know your roadmap. You can contact with me via skype or email <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: |
+  I am .NET developer but also use C++/Python. I like to find solution for the interesting technical tasks and complex technical challanges. <br/>
+  I have experience in developent and maintanence solutions in many business domain: financial, medical, semiconductors, 3d, modible and etc. 
+  More detailed about my skills, experience and projects you can find in my CV.
 
 # SKILLS SECTION
 # show_skills_card:
