@@ -5,31 +5,38 @@
 # - name: Git
 #   weight: 5
 
-- name: .NET
-  weight: 5
-- name: C++
-  weight: 4
-- name: Python
-  weight: 4
 - name: WPF
   weight: 5
+
 - name: MsSQL
   weight: 4
+
 - name: Git
   weight: 2
-- name: Asp.NET
-  weight: 4
+
 - name: WCF
   weight: 4
+
 - name: WebApi
   weight: 4
+
 - name: GRPC
   weight: 3
+
 - name: RabbitMq
   weight: 3
+
 - name: Docker
   weight: 3
+
 - name: Scrum/Agile
   weight: 3
+
 - name: Jenkins
   weight: 2
+
+- name: TeamCity
+  weight: 2
+
+- name: EntityFramework
+  weight: 4
